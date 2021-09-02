@@ -5,52 +5,52 @@
         <Partei name="Schüler">2</Partei>
     </Spielstand>
     <Mitspieler>
-        <Schueler name="name0">
+        <Schueler name="name0" vorname="vorname0">
             <Joker>0</Joker>
             <Blamiert>0</Blamiert>
             <Fragen>5</Fragen>
         </Schueler>
-        <Schueler name="name1">
+        <Schueler name="name1" vorname="vorname1">
             <Joker>0</Joker>
             <Blamiert>0</Blamiert>
             <Fragen>7</Fragen>
         </Schueler>
-        <Schueler name="name2">
+        <Schueler name="name2" vorname="vorname2">
             <Joker>1</Joker>
             <Blamiert>1</Blamiert>
             <Fragen>7</Fragen>
         </Schueler>
-        <Schueler name="name3">
+        <Schueler name="name3" vorname="vorname3">
             <Joker>6</Joker>
             <Blamiert>2</Blamiert>
             <Fragen>7</Fragen>
         </Schueler>
-        <Schueler name="name4">
+        <Schueler name="name4" vorname="vorname4">
             <Joker>3</Joker>
             <Blamiert>0</Blamiert>
             <Fragen>6</Fragen>
         </Schueler>
-        <Schueler name="name5">
+        <Schueler name="name5" vorname="vorname5">
             <Joker>0</Joker>
             <Blamiert>1</Blamiert>
             <Fragen>6</Fragen>
         </Schueler>
-        <Schueler name="name6">
+        <Schueler name="name6" vorname="vorname6">
             <Joker>2</Joker>
             <Blamiert>0</Blamiert>
             <Fragen>4</Fragen>
         </Schueler>
-        <Schueler name="name7">
+        <Schueler name="name7" vorname="vorname7">
             <Joker>0</Joker>
             <Blamiert>0</Blamiert>
             <Fragen>5</Fragen>
         </Schueler>
-        <Schueler name="name8">
+        <Schueler name="name8" vorname="vorname8">
             <Joker>8</Joker>
             <Blamiert>0</Blamiert>
             <Fragen>4</Fragen>
         </Schueler>
-        <Schueler name="name9">
+        <Schueler name="name9" vorname="vorname9">
             <Joker>4</Joker>
             <Blamiert>4</Blamiert>
             <Fragen>7</Fragen>
