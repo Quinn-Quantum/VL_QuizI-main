@@ -4,6 +4,8 @@ public class Schueler {
 
 	// Anfang Attribute
 	private String name;
+	private String vorname;
+	private String fullName;
 	private int joker;
 	private int blamiert;
 	private int fragen;
@@ -20,6 +22,8 @@ public class Schueler {
 	 */
 	public Schueler(String name, int joker, int blamiert, int fragen) {
 		this.name = name;
+		this.vorname=vorname;
+		this.fullName=fullName;
 		this.joker = joker;
 		this.blamiert = blamiert;
 		this.fragen = fragen;
@@ -29,6 +33,14 @@ public class Schueler {
 	// Anfang Methoden
 	public String getName() {
 		return name;
+	}
+
+	public String getVorname() {
+		return vorname;
+	}
+
+	public String getFullName(){
+		return fullName = getName()+getVorname();
 	}
 
 	public boolean isAnwesend() {

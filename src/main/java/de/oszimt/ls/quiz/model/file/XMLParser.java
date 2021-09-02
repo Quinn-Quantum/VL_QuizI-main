@@ -135,6 +135,9 @@ public class XMLParser {
 				Element e = doc.createElement("Schueler");
 				e.setAttribute("name", s.getName());
 				mitspieler.appendChild(e);
+				Element vorname = doc.createElement("Schueler");
+				vorname.setAttribute("name", s.getVorname());
+				e.appendChild(vorname);
 				Element joker = doc.createElement("Joker");
 				joker.appendChild(doc.createTextNode(s.getJoker() + ""));
 				e.appendChild(joker);

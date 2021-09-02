@@ -236,7 +236,7 @@ public class QuizGUI extends JFrame {
 			lblFrage[control.getFrageZeiger()].setForeground(new Color(0, 128, 0));
 			control.getZufallsSchueler();
 			control.frageBeantwortet();
-			this.lblSchueler.setText(control.getGewaehlterSchueler().getName());
+			this.lblSchueler.setText(control.getGewaehlterSchueler().getFullName());
 		}
 	}
 
